@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 Hi Viewers! This is my personal Github page where I publish my personal projects. Feel free to view my work.
 
@@ -15,4 +16,4 @@ Hi Viewers! This is my personal Github page where I publish my personal projects
 ---
 [![](https://visitcount.itsvg.in/api?id=SkyFlare108&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
